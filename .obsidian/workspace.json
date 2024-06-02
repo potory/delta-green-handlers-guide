@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Вы и есть Апокалипсис.md",
+                "file": "Вы и есть Апокалипсис.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Самый первый отчет.md",
+                "file": "1. Введение/1. Самый первый отчет.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Кураторы приходят в Delta Green.md",
+                "file": "1. Введение/3. Кураторы приходят в Delta Green.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Мир Delta Green.md",
+                "file": "1. Введение/4. Мир Delta Green.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Мир Delta Green.md",
+                "file": "1. Введение/4. Мир Delta Green.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6. Ведение игры Delta Green.md",
+                "file": "1. Введение/5. Ведение игры Delta Green.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. Чем занимается Агент Delta Green.md",
+                "file": "1. Введение/2. Начните с настольной книги Агента.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7. Чем занимается Агент Delta Green.md",
+                "file": "1. Введение/2. Начните с настольной книги Агента.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7. Чем занимается Агент Delta Green.md",
+                "file": "1. Введение/2. Начните с настольной книги Агента.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7. Чем занимается Агент Delta Green.md"
+                "file": "1. Введение/2. Начните с настольной книги Агента.md"
               }
             }
           }
@@ -221,13 +221,15 @@
   },
   "active": "3bbc02ef27566a3a",
   "lastOpenFiles": [
-    "6. Ведение игры Delta Green.md",
-    "4. Кураторы приходят в Delta Green.md",
-    "3. Начните с настольной книги Агента.md",
-    "2. Самый первый отчет.md",
-    "1. Вы и есть Апокалипсис.md",
-    "7. Чем занимается Агент Delta Green.md",
-    "5. Мир Delta Green.md",
+    "1. Введение/1. Самый первый отчет.md",
+    "1. Введение/2. Начните с настольной книги Агента.md",
+    "1. Введение/6. Чем занимается Агент Delta Green.md",
+    "Вы и есть Апокалипсис.md",
+    "1. Введение/3. Кураторы приходят в Delta Green.md",
+    "1. Введение/4. Мир Delta Green.md",
+    "1. Введение/5. Ведение игры Delta Green.md",
+    "1. Ддд",
+    "1. Введение",
     "Welcome.md"
   ]
 }
